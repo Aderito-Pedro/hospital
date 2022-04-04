@@ -1,0 +1,5 @@
+* text=auto
+
+*.jpg binary
+*.png binary~
+*1x400.png binary
